@@ -2,7 +2,7 @@
 Central repository housing verified professional certifications, academic credentials, and conference presentation certificates in Data Analytics, Machine Learning, and AI.
 
 
-# 📜 Verified Certifications & Credentials
+#  Verified Certifications & Credentials
 
 This repository serves as a centralized, publicly accessible directory for my official certificates, job simulations, and academic conference presentations.
 
