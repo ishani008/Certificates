@@ -21,5 +21,9 @@ This repository serves as a centralized, publicly accessible directory for my of
 * **Platform:** Forage
 * **Key Skills:** Business Scenario Framing, Data Storytelling, Tableau/Visual Communication
 
+### 4. SQL (Advanced) Certification
+   * **Platform:** HackerRank
+   * **Key Skills:** Complex SQL Queries, Window Functions, Multi-Table JOINs, Query Optimization
+   * **Earned:** 28 Jul 2026
 ---
 *Created and maintained by [Ishani Ghosh](https://github.com/ishani008)*
